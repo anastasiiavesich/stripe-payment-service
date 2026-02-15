@@ -1,0 +1,34 @@
+## Build
+bin/
+obj/
+
+## Rider / VS / VSCode
+.vs/
+.idea/
+.vscode/
+
+## User files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Logs
+*.log
+
+## OS
+.DS_Store
+Thumbs.db
+
+## SQLite
+*.db
+*.db-shm
+*.db-wal
+
+## Coverage
+coverage/
+*.coverage
+*.coveragexml
+
+## Secrets
+appsettings.Development.json
